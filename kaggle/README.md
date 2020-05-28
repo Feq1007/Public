@@ -12,3 +12,6 @@
 > * **数据中特殊点/离群值的分析和处理**
 > * **特征工程**
 > * **模型融合**
+
+---
+![分析过程](http://ml.xiniuedu.com/2_titanic/process.png?imageView/2/w/700/q/100)
