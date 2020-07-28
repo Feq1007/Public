@@ -4,6 +4,11 @@
 `Predict survival on the Titanic using python`
 [原文链接](http://blog.csdn.net/han_xiaoyang/article/details/49797143)
 
+# 2. [Kaggle-DigitRecongnize](https://www.kaggle.com/c/digit-recognizer)
+---
+`Predict survival on the Titanic using python`
+[原文链接](http://blog.csdn.net/han_xiaoyang/article/details/49797143)
+
 ---
 ## 总结
 1. 首先会用算法快速搭建一个baseline的model，再进行后续分析步骤，一步一步提高。
